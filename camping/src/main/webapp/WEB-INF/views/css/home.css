@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+.camplist {
+	display : flex;
+	justify-content: center;
+}
+
+.camplist tr{
+	text-align: center;
+}
+
+.campView {
+	text-decoration : none;
+	color : black;
+}
